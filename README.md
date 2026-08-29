@@ -1,4 +1,4 @@
-# Olá, me chamo Arthur Ramo da Silva! 👋
+# Olá, me chamo Arthur Ramo da Silva! 
 
 Sou estudante de **Engenharia de Software** no Instituto Federal do Paraná (IFPR), atualmente no 2º ano da graduação.
 
