@@ -15,7 +15,6 @@ Atualmente busco uma oportunidade de **estágio em Desenvolvimento de Software**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pgadmin/pgadmin-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
@@ -29,16 +28,6 @@ Atualmente busco uma oportunidade de **estágio em Desenvolvimento de Software**
 🎓 **Engenharia de Software**  
 Instituto Federal do Paraná — Campus Paranavaí  
 2º ano | Previsão de conclusão: 2028
-
----
-
-## 🚀 Projetos Acadêmicos
-
-### 📊 Estudo Comparativo entre Python, Java e MATLAB
-Estudo acadêmico comparando diferentes linguagens de programação, desenvolvido utilizando **LaTeX e Overleaf**.
-
-### 📄 Pesquisa e Produção Acadêmica
-Atualmente participando da elaboração de trabalhos acadêmicos, com **3 artigos em processo de submissão para a revista ELO e SBQS 2026**.
 
 ---
 
